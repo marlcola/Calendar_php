@@ -1,0 +1,33 @@
+/* 
+    Document   : style
+    Created on : 2013/08/08, 13:48:57
+    Author     : mori
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*root { 
+    display: block;
+}*/
+
+th, td {
+    
+    padding: 5px;
+    border: solid;
+    border: #ccc;
+    border: 1px;
+    text-align: center;
+}
+
+th {
+    background: #eee;
+}
+
+.youbi_0 {
+    color: red;
+    
+}
+
+.youbi_6 {
+    color: blue;
+}
